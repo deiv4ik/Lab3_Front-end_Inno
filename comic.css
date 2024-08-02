@@ -1,0 +1,19 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./css/comic.css ***!
+  \*****************************************************************/
+body {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+}
+.comic-container {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*# sourceMappingURL=comic.css.map*/
